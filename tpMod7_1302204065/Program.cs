@@ -4,7 +4,7 @@ using System;
 using System.Text.Json;
 using Newtonsoft;
 
-namespace tpmodul7_1302204065 // Note: actual namespace depends on the project name.
+namespace tpmodul7_1302204065 
 {
     class Program
     {
